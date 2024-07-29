@@ -3,6 +3,7 @@ using System.Drawing;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace tarea_programada
@@ -101,6 +102,7 @@ namespace tarea_programada
     {
         private Socket socket;
         private int listeningPort;
+        private bool isConnected = false;
 
         public ChatClient(int listeningPort)
         {
@@ -111,13 +113,40 @@ namespace tarea_programada
 
         public void Connect(string ipAddress, int port)
         {
-            socket.Connect(new IPEndPoint(IPAddress.Parse(ipAddress), port));
+            try
+            {
+                socket.Connect(new IPEndPoint(IPAddress.Parse(ipAddress), port));
+                isConnected = true;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error al conectar: " + ex.Message);
+            }
         }
 
         public void SendMessage(string message, int port)
         {
-            byte[] data = Encoding.UTF8.GetBytes(message);
-            socket.SendTo(data, new IPEndPoint(IPAddress.Loopback, port));
+            if (!isConnected)
+            {
+                Connect("127.0.0.1", port); // Conectar al puerto de destino
+            }
+
+            if (isConnected)
+            {
+                try
+                {
+                    byte[] data = Encoding.UTF8.GetBytes(message);
+                    socket.SendTo(data, new IPEndPoint(IPAddress.Loopback, port));
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Error al enviar mensaje: " + ex.Message);
+                }
+            }
+            else
+            {
+                MessageBox.Show("No se pudo conectar al servidor.");
+            }
         }
 
         public void StartListening()
@@ -130,12 +159,19 @@ namespace tarea_programada
 
                 while (true)
                 {
-                    Socket handler = listeningSocket.Accept();
-                    byte[] buffer = new byte[1024];
-                    int received = handler.Receive(buffer);
-                    string receivedMessage = Encoding.UTF8.GetString(buffer, 0, received);
-                    OnMessageReceived?.Invoke(receivedMessage);
-                    handler.Close();
+                    try
+                    {
+                        Socket handler = listeningSocket.Accept();
+                        byte[] buffer = new byte[1024];
+                        int received = handler.Receive(buffer);
+                        string receivedMessage = Encoding.UTF8.GetString(buffer, 0, received);
+                        OnMessageReceived?.Invoke(receivedMessage);
+                        handler.Close();
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Error al recibir mensaje: " + ex.Message);
+                    }
                 }
             });
         }
