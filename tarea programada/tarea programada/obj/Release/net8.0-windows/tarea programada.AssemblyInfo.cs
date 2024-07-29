@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarea programada")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67ca56e318b3b5db120dbd0b268cecc2af613c3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b0f070cacf96ebf2f0c416161acbbaed62206fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarea programada")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarea programada")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

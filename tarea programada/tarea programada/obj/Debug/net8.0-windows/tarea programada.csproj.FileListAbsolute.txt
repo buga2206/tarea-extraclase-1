@@ -1,5 +1,3 @@
-C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea_programada.Form1.resources
-C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.csproj.GenerateResource.cache
 C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.AssemblyInfoInputs.cache
 C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.AssemblyInfo.cs
