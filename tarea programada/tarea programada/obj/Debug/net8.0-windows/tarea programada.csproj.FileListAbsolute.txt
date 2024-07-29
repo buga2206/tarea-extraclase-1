@@ -1,0 +1,17 @@
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea_programada.Form1.resources
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.csproj.GenerateResource.cache
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.AssemblyInfoInputs.cache
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.AssemblyInfo.cs
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.csproj.CoreCompileInputs.cache
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.sourcelink.json
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\bin\Debug\net8.0-windows\tarea programada.exe
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\bin\Debug\net8.0-windows\tarea programada.deps.json
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\bin\Debug\net8.0-windows\tarea programada.runtimeconfig.json
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\bin\Debug\net8.0-windows\tarea programada.dll
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\bin\Debug\net8.0-windows\tarea programada.pdb
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.dll
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\refint\tarea programada.dll
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.pdb
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\tarea programada.genruntimeconfig.cache
+C:\Users\User\desktop\Datos 1\Tarea programada Daniel Burger\tarea-extraclase-1\tarea programada\tarea programada\obj\Debug\net8.0-windows\ref\tarea programada.dll

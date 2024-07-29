@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\desktop\\Datos 1\\Tarea programada Daniel Burger\\tarea-extraclase-1\\tarea programada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D4B78B-5A13-4187-8577-0AEC78BD5665}|tarea programada\\tarea programada.csproj|c:\\users\\user\\desktop\\datos 1\\tarea programada daniel burger\\tarea-extraclase-1\\tarea programada\\tarea programada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D4B78B-5A13-4187-8577-0AEC78BD5665}|tarea programada\\tarea programada.csproj|solutionrelative:tarea programada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D4B78B-5A13-4187-8577-0AEC78BD5665}|tarea programada\\tarea programada.csproj|C:\\Users\\User\\desktop\\Datos 1\\Tarea programada Daniel Burger\\tarea-extraclase-1\\tarea programada\\tarea programada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08D4B78B-5A13-4187-8577-0AEC78BD5665}|tarea programada\\tarea programada.csproj|solutionrelative:tarea programada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\desktop\\Datos 1\\Tarea programada Daniel Burger\\tarea-extraclase-1\\tarea programada\\tarea programada\\Form1.cs",
+              "RelativeDocumentMoniker": "tarea programada\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\desktop\\Datos 1\\Tarea programada Daniel Burger\\tarea-extraclase-1\\tarea programada\\tarea programada\\Form1.cs",
+              "RelativeToolTip": "tarea programada\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T01:38:00.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\User\\desktop\\Datos 1\\Tarea programada Daniel Burger\\tarea-extraclase-1\\tarea programada\\tarea programada\\Form1.cs",
+              "RelativeDocumentMoniker": "tarea programada\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\desktop\\Datos 1\\Tarea programada Daniel Burger\\tarea-extraclase-1\\tarea programada\\tarea programada\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "tarea programada\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T01:32:06.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
